@@ -1,0 +1,14 @@
+{
+  "resourceName": "pic",
+  "policyUUID": "536c5597",
+  "bucketName": "amplifytestbuckernote",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
